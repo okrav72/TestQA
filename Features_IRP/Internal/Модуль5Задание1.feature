@@ -26,9 +26,3 @@
 	И я перезаполняю для объекта табличную часть "AddAttributes":
 		| 'Ref'                                                           | 'Property'                                                                                           | 'Value'                                                                                 |
 		| '{"e1cib/data/Catalog.Units?ref=" + StrReplace(New UUID, "-", "")}' | 'e1cib/data/ChartOfCharacteristicTypes.AddAttributeAndProperty?ref=b762b13668d0905011eb766bf96b275d' | 'e1cib/data/Catalog.AddAttributeAndPropertyValues?ref=b762b13668d0905011eb766bf96b2760' |
-
-			
-					
-								
-				
-	
